@@ -10,7 +10,7 @@ const Footer = () => (
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
               <Bus className="h-4 w-4 text-primary-foreground" />
             </div>
-            <span className="text-lg font-bold">BiharYatra</span>
+            <span className="text-lg font-bold">ANJANI TRAVEL</span>
           </div>
           <p className="text-sm opacity-70">Bihar's most trusted bus booking platform. Travel safe, travel smart across all districts of Bihar and inter-state routes.</p>
         </div>
