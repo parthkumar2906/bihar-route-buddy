@@ -14,7 +14,7 @@ const Features = () => (
   <section className="py-16">
     <div className="container">
       <div className="mb-10 text-center">
-        <h2 className="text-3xl font-bold text-foreground">Why Book With BiharYatra?</h2>
+        <h2 className="text-3xl font-bold text-foreground">Why Book With ANJANI TRAVEL?</h2>
         <p className="mt-2 text-muted-foreground">Trusted by 2 lakh+ travelers across Bihar</p>
       </div>
 

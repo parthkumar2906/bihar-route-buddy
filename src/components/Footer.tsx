@@ -47,7 +47,7 @@ const Footer = () => (
       </div>
 
       <div className="mt-8 border-t border-primary-foreground/20 pt-6 text-center text-sm opacity-60">
-        © 2026 BiharYatra. All rights reserved. A product of Bihar State Transport Corporation.
+        © 2026 ANJANI TRAVEL. All rights reserved.
       </div>
     </div>
   </footer>
