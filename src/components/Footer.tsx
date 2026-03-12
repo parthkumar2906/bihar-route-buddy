@@ -10,7 +10,7 @@ const Footer = () => (
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
               <Bus className="h-4 w-4 text-primary-foreground" />
             </div>
-            <span className="text-lg font-bold">BiharYatra</span>
+            <span className="text-lg font-bold">ANJANI TRAVEL</span>
           </div>
           <p className="text-sm opacity-70">Bihar's most trusted bus booking platform. Travel safe, travel smart across all districts of Bihar and inter-state routes.</p>
         </div>
@@ -40,14 +40,14 @@ const Footer = () => (
           <h4 className="mb-3 font-semibold">Contact Us</h4>
           <ul className="space-y-3 text-sm opacity-70">
             <li className="flex items-center gap-2"><Phone className="h-4 w-4" /> +91 98765 43210</li>
-            <li className="flex items-center gap-2"><Mail className="h-4 w-4" /> support@biharyatra.com</li>
+            <li className="flex items-center gap-2"><Mail className="h-4 w-4" /> support@anjanitravel.com</li>
             <li className="flex items-start gap-2"><MapPin className="h-4 w-4 mt-0.5" /> Gandhi Maidan, Patna, Bihar 800001</li>
           </ul>
         </div>
       </div>
 
       <div className="mt-8 border-t border-primary-foreground/20 pt-6 text-center text-sm opacity-60">
-        © 2026 BiharYatra. All rights reserved. A product of Bihar State Transport Corporation.
+        © 2026 ANJANI TRAVEL. All rights reserved.
       </div>
     </div>
   </footer>
